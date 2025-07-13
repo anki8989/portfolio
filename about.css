@@ -17,6 +17,7 @@ u {
     border-radius: 20px;
     color: maroon;
     margin:20px;
+    padding:5px;
 
 
 }
@@ -155,6 +156,9 @@ input::placeholder {
 
 h5 {
     text-align: left;
+    font-size: large;
+    margin:10px;
+    padding:10px;
 }
 
 textarea {
