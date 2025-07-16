@@ -274,15 +274,12 @@ button {
   }
 
   main p span {
-    display: inline; /* Prevent span from breaking layout */
+    display: inline; 
+   
+   br-display: none;
   }
 
-  /* Remove all the <br> spacing and let text flow naturally */
-  br {
-    display: none;
-  }
 
-  /* Connect section */
   h4 {
     font-size: 1.2rem;
     text-align: center;
